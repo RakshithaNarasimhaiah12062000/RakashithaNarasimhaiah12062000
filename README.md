@@ -1,4 +1,4 @@
-# RakashithaNarasimhaiah12062000
+# RakshithaNarasimhaiah12062000
 
 # 💫 About Me:
 👩‍💻 I’ve worked on<br>Applied data science projects across healthcare, enterprise analytics, and GenAI, focused on translating complex data into decision-ready insights.<br><br>🤝 I’m looking to collaborate on<br>Data science, applied ML, analytics, and GenAI projects involving real-world datasets and business problems.<br><br>🆘 I’m looking for help with<br>Breaking into applied data science roles in industry and strengthening end-to-end ML project impact.<br><br>🌱 I’m currently learning<br>Advanced statistical modeling, experimentation (A/B testing), and scalable GenAI systems.<br><br>💬 Ask me about<br>Applied data science, healthcare analytics, RAG-based systems, and building ML solutions from messy real-world data.<br><br>⚡ Fun fact<br>I enjoy turning ambiguous business questions into clear, data-backed decisions.
